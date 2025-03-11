@@ -35,3 +35,17 @@ Este projeto é um **bot do Telegram** para **controle de gastos pessoais**, per
 git clone https://github.com/HendrylHH/ControleGastos-Bot.git
 cd controlegastos-bot
 
+### Comandos Disponíveis
+| Comando | Descrição |
+|---------|-----------|
+| `/g valor categoria` | Adiciona um gasto |
+| `/e valor` | Define saldo mensal |
+| `/csd` | Consulta saldo disponível |
+| `/rm` | Gera relatório mensal |
+| `/editar id novo_valor [nova_categoria]` | Edita um registro |
+| `/excluir id` | Exclui um registro |
+| `/grafico` | Envia gráfico de gastos |
+| `/backup` | Gera um backup dos registros |
+| `/lista` | Lista todos os gastos registrados |
+
+
