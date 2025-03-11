@@ -34,6 +34,7 @@ Este projeto é um **bot do Telegram** para **controle de gastos pessoais**, per
 # Clone o repositório
 git clone https://github.com/HendrylHH/ControleGastos-Bot.git
 cd controlegastos-bot
+```
 
 ### Comandos Disponíveis
 | Comando | Descrição |
